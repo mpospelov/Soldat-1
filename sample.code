@@ -1,0 +1,17 @@
+mov a, 10
+add a, #0
+add (a), a
+sub a, 2
+div a, 11
+mul a, 100
+and a, 5
+or a, 10
+shr a
+shl a
+shl a
+jz a, 2
+jn a, 4
+inc a
+dec a
+not a
+stop
